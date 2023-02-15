@@ -1,6 +1,6 @@
 
 
-![alt text](./src/assets/webLivePhoto.png)
+![alt text](https://ibb.co/pfn15My)
 # Project Title
 
 AI-Community is an application. It makes aswome photos and text by sending api request to open-ai.
