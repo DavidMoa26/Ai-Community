@@ -18,15 +18,13 @@ The application built with express and Node.js, and a client built with React.
 ## for client Installation : 
 
 ```bash
-  npm install ai-generator
-  cd client
+  cd frontend
   npm install
 ```
 ## for server Installation : 
 
 ```bash
-  npm install ai-generator
-  cd server
+  cd backend
   npm install
 ```
     
